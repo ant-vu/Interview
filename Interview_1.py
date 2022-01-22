@@ -7,16 +7,16 @@
 # Output - []
 #
 # Example 2:
-# Input - ["hi", "bye" ], [ "bye", "lie" ], ["try", "cry"]
+# Input - ["hi", "bye"], [ "bye", "lie" ], ["try", "cry"]
 # Output - []
 #
 # Example 3:
-# Input - ["hi", "bye"], [ "bye", "lie"], ["bye", "cry"]
+# Input - ["hi", "bye"], ["bye", "lie"], ["bye", "cry"]
 # Output - ["bye”]
 #
 # Return words that occur in 2 or more lists
 # Example:
-# Input - ["hi", "bye" ], [ "bye", "lie" ], ["try", "cry"]
+# Input - ["hi", "bye"], ["bye", "lie"], ["try", "cry"]
 # Output - [“bye”]
 #
 # Assume input lists can have duplicate words. Return words that occur in 2 or more lists.
